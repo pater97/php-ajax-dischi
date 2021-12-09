@@ -3,6 +3,7 @@ require __DIR__ . '/layouts/head.php';
 require __DIR__ . '/api/dischi.php';
  ?>
 
+
 <main>
     <section class="main_container">
         <div class="row">
@@ -31,5 +32,6 @@ require __DIR__ . '/api/dischi.php';
         </div>
     </section>
 </main>
+
 
 <?php require __DIR__ . '/layouts/footer.php'; ?>
