@@ -2,6 +2,7 @@
 require __DIR__ . '/layouts/head.php';
  ?>
 
+
 <main id="app">
     <section class="main_container">
         <div class="row">
@@ -28,5 +29,6 @@ require __DIR__ . '/layouts/head.php';
         </div>
     </section>
 </main>
+
 
 <?php require __DIR__ . '/layouts/footer.php'; ?>
